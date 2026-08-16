@@ -1,0 +1,12 @@
+[general]
+name=Processing Script Reload
+description=Reload all Python scripts registered by the QGIS Processing Scripts provider.
+about=Adds one Refresh command to the Plugins menu and toolbar. The command rescans every configured Processing scripts folder and updates the Processing Toolbox.
+version=1.0.0
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+author=Guilhem
+category=Plugins
+experimental=False
+deprecated=False
+hasProcessingProvider=False
